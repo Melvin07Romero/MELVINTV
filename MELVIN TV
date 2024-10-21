@@ -1,0 +1,80 @@
+{"name": "REPLAY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Cine vip",
+"stations": [
+
+{"name":"HBO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184634.m3u8"},
+
+{"name":"HBO PLUS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGSF3AZcHFz_uuvagNEbBSOLv1EVbJXEeBg&usqp=CAU", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/351707.ts"},
+
+{"name":"HBO 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcOvMseCNdG961h_YXsupqZlDdCLXZHF8WSO2ia8qCQ&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184638.ts"},
+
+{"name":"HBO 2 OPCIÓN 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJDiSTDIF4gBY6EaInKgVT8Vc3IbGQBc0kGEF0UQ8dg&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/351709.ts"},
+
+{"name":"HBO EXTREME", "image":"https://static.wikia.nocookie.net/tvcable/images/c/c8/HBOXtreme.png/revision/latest/smart/width/250/height/250?cb=20200203163019&path-prefix=es", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/351708.ts"},
+
+{"name":"HBO FAMILY", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwxexuJ8PNeOW5zkBIuNg9K58tdvIEcVlXuzU-LYHkQ&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184641.ts"},
+
+{"name":"HBO SIGNATURE", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgHDcRTg_756cnOtrnBH5XtrZAOmKXnBFCwdaY3SSbw&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184650.ts"},
+
+{"name":"UNIVERSAL TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoMSiyNuEdU7SIjnitzNEjaW-6syx4BOmyZeEULSTag&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184692.ts"},
+
+{"name":"UNIVERSAL CINEMA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Mas2vTf8RwZz_751iXNWYJd4Jw_bkgcELTixRc_LQw&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184699.ts"},
+
+{"name":"UNIVERSAL PREMIERE", "image":"/data/user/0/com.instantbits.cast.webvideo/cache/imageCastCache/iTPzt.png", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184702.ts"},
+
+{"name":"WARNER TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_O0zN0zRqQUSjWCsbz1eF3x3w3TQLNuVgMLYAh_CPIA&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184694.ts"},
+
+{"name":"SONY CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FYFGstICrZbnfT2NEhSFJ26Qq6mTF140NAxAVZrmAQ&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184659.ts"},
+
+{"name":"SONY CHANNEL OPCIÓN 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOP93vKEKNaDV42TnsjFjT2DeFuFud5RrqQfD2Kxgog&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/351725.ts"},
+
+{"name":"SONY MOVIES", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY_pz-U-s-wPzhla2iUJtVwIMaHPlrSYJCJSgfqndUg&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184658.ts"},
+
+{"name":"STAR CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZd2lQPBqktgSnIi3uj0fNY-ASWjw6JOMZkN6ztBwvg&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184664.ts"},
+
+{"name":"STAR CHANNEL OPCIÓN 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZd2lQPBqktgSnIi3uj0fNY-ASWjw6JOMZkN6ztBwvg&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184665.ts"},
+
+{"name":"PARAMOUNT CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMD6NSsnxOAA4A6ZbIQR9Y46karKiRYhxPIq_KklmTg&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184655.ts"},
+
+{"name":"FOX CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97C8Pok_ZyTsMpKprSKb_2unBKHwD5PKxODbWz45LKg&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184623.ts"},
+
+{"name":"CINECANAL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWlSa96hQlM0_Ac451WUV7k6GF5u16Fqv3dV0OTc_nA&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184609.ts"},
+
+{"name":"GOLDEN", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzfY1vhLoFGoFUgW3TLG_zz0V5pVw4aCJJFdMH47esA&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184634.ts"},
+
+{"name":"GOLDEN PLUS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3uiH0m-ueFUKzXioJEuoxr7wft2irfk-BpNrdv9tQQ&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184626.ts"},
+
+{"name":"GOLDEN EDGE", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cAFhFzxf-ZnQQ9PFWqtRILpfQdoMdEbkM3DE0RI0ng&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184627.ts"},
+
+{"name":"GOLDEN PREMIUN", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxucyKLATstAUzfepT8WUuXjztDRwRWafNW8CNpRCVw&s", 
+"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184629.ts"},
+
+{"name":"CINE FAMILIAR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
+"url":"http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8"},
+
+{"name":"CINE PREMIUN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU",
+"url":"http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8"}]},
+
