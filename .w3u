@@ -1,6 +1,6 @@
 {"name": "REPLAY TV",
 "image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Cine vip-MELVIN",
+"author": "Cine vip - MELVIN",
 "stations": [
 
 {"name":"HBO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
@@ -72,9 +72,89 @@
 {"name":"GOLDEN PREMIUN", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxucyKLATstAUzfepT8WUuXjztDRwRWafNW8CNpRCVw&s", 
 "url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184629.ts"},
 
+{"name":"TERROR MANIA", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv?android_vs.ts.m3u8"},
+
+{"name":"GEN TV", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8"},
+
+{"name":"TV PRIME", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL"},
+
+{"name":"MEGA CINE", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL"},
+
+{"name":"PELÍCULAS MANIA", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8"},
+
+{"name":"TERROR TV", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://tv.streaming-chile.com:19360/8140/8140.m3u8"},
+
+{"name":"META VERSUS", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8"},
+
+{"name":"COSMOS", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"},
+
+{"name":"OPINIONSUR CINE", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL"},
+
+{"name":"OPINIONSUR SERIES", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://fl1002.bozztv.com/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL"},
+
+{"name":"BAYRES TV", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL"},
+
+{"name":"APANINES TV", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://ssh101-fl.bozztv.com/ssh101/apaninestv/tracks-v1a1/mono.m3u8"},
+
+{"name":"+CINE", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://tv.streaming-chile.com:19360/8142/8142.m3u8"},
+
+{"name":"CINE RED", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv?android_vs.ts.m3u8"},
+
+{"name":"CINE MUNDO", "image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg", 
+"url":"https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_0.flv?android_vs.ts.m3u8"},
+
+{"name":"CINE MUNDO PLUS","image":"https://img.freepik.com/vector-premium/caja-luz-cine_714710-145.jpg",
+"url":"https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv?android_vs.ts.m3u8"},
+
+{"name":"TELE CLASICA", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://glb.bozztv.com/glb/ssh101/teleclasik/index.m3u8"},
+
+{"name":"MI TV CLASICA", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"CANAL REX", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://v4.tustreaming.cl/canalrex/index.m3u8?PlaylistM3UCL"},
+
+{"name":"RETRO TV", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://ssh101-fl.bozztv.com:443/ssh101/retrotvcr/tracks-v1a1/mono.m3u8"},
+
+{"name":"ANI RETRO", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://tv.streaming-chile.com:19360/8068/8068.m3u8"},
+
+{"name":"RETRO PALMARES", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8"},
+
+{"name":"RETROX TV", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8"},
+
+{"name":"TV & TV", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL"},
+
+{"name":"RETRO PLAY", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL"},
+
+{"name":"DIDI TV", "image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg", 
+"url":"https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL"},
+
+{"name":"RETRO OESTE","image":"https://img.freepik.com/vector-premium/marco-cine-bombilla-3d-realista-estilo-retro-sobre-fondo-negro_88188-864.jpg",
+"url":"https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"},
+
 {"name":"CINE FAMILIAR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
 "url":"http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8"},
 
 {"name":"CINE PREMIUN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU",
 "url":"http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8"}]},
-
