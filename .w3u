@@ -3,7 +3,7 @@
 "author": "Cine vip - MELVIN",
 "stations": [
 
-{"name":"HBO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
+{"name":"HBO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5UcCyt6xdpbJdsB3dQA182UnlPfhMHiKK_qsnVrgJA&s", 
 "url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184634.m3u8"},
 
 {"name":"HBO PLUS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGSF3AZcHFz_uuvagNEbBSOLv1EVbJXEeBg&usqp=CAU", 
@@ -30,7 +30,7 @@
 {"name":"UNIVERSAL CINEMA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Mas2vTf8RwZz_751iXNWYJd4Jw_bkgcELTixRc_LQw&s", 
 "url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184699.ts"},
 
-{"name":"UNIVERSAL PREMIERE", "image":"/data/user/0/com.instantbits.cast.webvideo/cache/imageCastCache/iTPzt.png", 
+{"name":"UNIVERSAL PREMIERE", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfswGEOh7q_T09UOp_PQExCO0_MUXKdEi_8HMuHnok&s", 
 "url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184702.ts"},
 
 {"name":"WARNER TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_O0zN0zRqQUSjWCsbz1eF3x3w3TQLNuVgMLYAh_CPIA&s", 
@@ -47,9 +47,6 @@
 
 {"name":"STAR CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZd2lQPBqktgSnIi3uj0fNY-ASWjw6JOMZkN6ztBwvg&s", 
 "url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184664.ts"},
-
-{"name":"STAR CHANNEL OPCIÓN 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZd2lQPBqktgSnIi3uj0fNY-ASWjw6JOMZkN6ztBwvg&s", 
-"url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184665.ts"},
 
 {"name":"PARAMOUNT CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMD6NSsnxOAA4A6ZbIQR9Y46karKiRYhxPIq_KklmTg&s", 
 "url":"http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184655.ts"},
