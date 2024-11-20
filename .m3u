@@ -1,7 +1,4 @@
-{"name": "REPLAY TV",
-"image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Cine vip - MELVIN",
-"stations": [
+#EXTM3U
 
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5UcCyt6xdpbJdsB3dQA182UnlPfhMHiKK_qsnVrgJA&s; group-title=&quot;Premium&quot;, HBO
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94842.ts
